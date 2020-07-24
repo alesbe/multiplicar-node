@@ -19,14 +19,14 @@ node app [operación] [args]
 Lista la tabla de multiplicar
 
 ```
-node app listar [--b] [--l]
+node app listar --b [--l]
 ```
 
 ### crear
 Crea un archivo de texto en `./tablas` con la tabla de multiplicar.
 
 ```
-node app crear [--b] [--l]
+node app crear --b [--l]
 ```
 
 ### help

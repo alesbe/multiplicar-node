@@ -1,10 +1,8 @@
-
-
 # Tablas de multiplicar con NodeJS
 Esta aplicación ha sido creada con fines prácticos, siguiendo un curso de NodeJS.
 
 ## Instalación
-Dentro de la carpeta, ejecutar el siguiente comando para instalar las dependencias:
+Dentro de la carpeta del proyecto, ejecutar el siguiente comando para instalar las dependencias:
 
 ```
 npm install

@@ -1,6 +1,6 @@
 
 
-### Tablas de multiplicar con NodeJS
+# Tablas de multiplicar con NodeJS
 Esta aplicación ha sido creada con fines prácticos, siguiendo un curso de NodeJS.
 
 ## Instalación
@@ -11,30 +11,30 @@ npm install
 ```
 
 ## Uso
-´´´´
+```
 node app [operación] [args]
-´´´
+```
 
-# listar
+### listar
 Lista la tabla de multiplicar
 
-´´´
+```
 node app listar [--b] [--l]
-´´´
+```
 
-# crear
+### crear
 Crea un archivo de texto en `./tablas` con la tabla de multiplicar.
 
-´´´
+```
 node app crear [--b] [--l]
-´´´
+```
 
-# help
+### help
 Imprime la ayuda de la aplicación
 
-´´´
+```
 node app --help
-´´´
+```
 
 ## Argumentos
 `--base || --b`: Especifica la base de la tabla.

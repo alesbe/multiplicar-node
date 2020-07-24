@@ -1,6 +1,8 @@
 # Tablas de multiplicar con NodeJS
 Esta aplicación ha sido creada con fines prácticos, siguiendo un curso de NodeJS.
 
+![Tabla](https://i.imgur.com/roT4Xtw.png)
+
 ## Instalación
 Dentro de la carpeta del proyecto, ejecutar el siguiente comando para instalar las dependencias:
 

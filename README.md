@@ -1,6 +1,8 @@
 # Tablas de multiplicar con NodeJS
 Esta aplicación ha sido creada con fines prácticos, siguiendo un curso de NodeJS.
 
+Permite crear tablas de multiplicar, usando la base y el limite que desees desde la linea de comandos.
+
 ![Tabla](https://i.imgur.com/roT4Xtw.png)
 
 ## Instalación

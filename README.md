@@ -39,5 +39,13 @@ node app --help
 ```
 
 ## Argumentos
-`--base || --b`: Especifica la base de la tabla.
-`--limite || --l`: Especifica el límite de la tabla.
+
+### -base
+Especifica la base de la tabla.
+
+Alias: `-b`
+
+### -limite
+Especifica el límite de la tabla.
+
+Alias: `-l`

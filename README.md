@@ -1,38 +1,37 @@
-# Tablas de multiplicar con NodeJS
-Esta aplicación ha sido creada con fines prácticos, siguiendo un curso de NodeJS.
+# Multiplication tables made with NodeJS
 
-Permite crear tablas de multiplicar, usando la base y el limite que desees desde la linea de comandos.
+Allow you to create multiplication tables with the base and limit that you want.
 
-![Tabla](https://i.imgur.com/roT4Xtw.png)
+![Table](https://i.imgur.com/roT4Xtw.png)
 
-## Instalación
-Dentro de la carpeta del proyecto, ejecutar el siguiente comando para instalar las dependencias:
+## Install
+Install (inside project folder):
 
 ```
 npm install
 ```
 
-## Uso
+## Usage
 ```
-node app [operación] [args]
+node app [operation] [args]
 ```
 
 ### listar
-Lista la tabla de multiplicar
+Displays the table
 
 ```
 node app listar --b [--l]
 ```
 
 ### crear
-Crea un archivo de texto en `./tablas` con la tabla de multiplicar.
+Creates a file in `./tablas` with the multiplication table.
 
 ```
 node app crear --b [--l]
 ```
 
 ### help
-Imprime la ayuda de la aplicación
+Prints app help
 
 ```
 node app --help
@@ -41,11 +40,11 @@ node app --help
 ## Argumentos
 
 ### -base
-Especifica la base de la tabla.
+Specifies the base of the table
 
 Alias: `-b`
 
 ### -limite
-Especifica el límite de la tabla.
+Specifies the limit of the table.
 
 Alias: `-l`
